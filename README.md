@@ -1,3 +1,5 @@
+
+<img width="1883" height="852" alt="Screenshot 2025-09-05 195326" src="https://github.com/user-attachments/assets/e85930cf-599d-4fdc-9565-707b639abc3e" />
 # WebRTC Video Call Application with Authentication
 
 A full-stack real-time video calling application built with Next.js, Express, WebRTC, and NextAuth.js. Features include multi-participant video calls, screen sharing, real-time chat, and a comprehensive authentication system with OAuth support.
